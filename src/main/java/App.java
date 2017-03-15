@@ -7,6 +7,6 @@ public class App {
     String inputString = myConsole.readLine();
     Integer parseInputNumber = Integer.parseInt(inputString);
 
-    PrimeSifter.runPrimeSifter(parseInputNumber);
+    System.out.println(PrimeSifter.runPrimeSifter(parseInputNumber));
   }
 }

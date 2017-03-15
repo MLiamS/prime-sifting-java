@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrimeSifterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-15T22:27:36" hostname="Epicodus-7A.local" time="0.002">
+<testsuite name="PrimeSifterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-15T23:35:04" hostname="Epicodus-7A.local" time="0.002">
   <properties/>
-  <testcase name="runPrimeSifter_enterTwo_ArrayList" classname="PrimeSifterTest" time="0.001"/>
-  <testcase name="runPrimeSifter_enterTwoisPrime_ArrayList" classname="PrimeSifterTest" time="0.001"/>
+  <testcase name="runPrimeSifter_enterTwo_ArrayList" classname="PrimeSifterTest" time="0.002"/>
+  <testcase name="runPrimeSifter_enterTwoisPrime_ArrayList" classname="PrimeSifterTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
